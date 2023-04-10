@@ -1,2 +1,2 @@
-# LinearRegression1
-Tried my hands on Linear Regression while practicing Machine Learning
+# Data Analysis
+Some basic machine learning and visual data analysis
